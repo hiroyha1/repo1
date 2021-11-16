@@ -1,0 +1,3 @@
+[submodule "base\\repo2"]
+	path = base\\repo2
+	url = git@github.com:hiroyha1/repo2.git
